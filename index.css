@@ -1,0 +1,23 @@
+header{
+    font-size: 100px;
+    background-color: limegreen;
+    text-align: center;
+    font-family: "Vast Shadow", serif;
+}
+
+body{
+    background-color: wheat;
+}
+
+.grid-panel-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 15px;                           
+  padding: 10px;
+  font-family: "Cormorant Garamond", serif;
+}
+
+p{
+font-family: "Cormorant Garamond", serif;
+font-size: 30px;
+}
