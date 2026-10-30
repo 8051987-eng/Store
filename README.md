@@ -1,5 +1,5 @@
 # Store
-MY STORE Hello store is a system that allows you to but shoes pickles and oranges useing users input to see what they want to buy. Features You want to try it out here is a link https://8051987-eng.github.io/Store/ • input features allows you to type in what item you want • grid pannels for sorting• Flexible page swapping go from oranges to pickals How It Works it uses html css and js html for reactions and stuff css for the colors text font and font size html for the text header and columns. Credits • Google fonts: got fonts from here • Google & Bing Search: Used for the images and help with some code.
+MY STORE Hello store is a system that allows you to buy shoes pickles and oranges using the users input features to seacrh what you want to buy. Features You want to try it out here is a link https://8051987-eng.github.io/Store/ • input features allows you to type in what item you want • grid pannels for sorting• Flexible page swapping go from oranges to pickals How It Works it uses html css and js html for reactions and stuff css for the colors text font and font size html for the text header and columns. Credits • Google fonts: got fonts from here • Google & Bing Search: Used for the images and help with some code.
 
 
 here is a image of the main page
